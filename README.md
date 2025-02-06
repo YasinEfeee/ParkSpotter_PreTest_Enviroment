@@ -65,6 +65,10 @@ After training the model, we developed a main script to use the trained model fo
 └── /Real-life use case # Images of real-life use case
 ```
 
+## Real-life Use Case
+![image alt](https://github.com/YasinEfeee/ParkSpotter_PreTest_Enviroment/blob/acf2c54068d9aed24bbe0c322e40e0499544ca7f/Real-life%20use%20cases/Runing%20example.JPEG)
+
+
 ## Contribute
 
 We're open to any suggestions or ideas to make the project and ourselves better! You can contribute to the project in the following ways:
