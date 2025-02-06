@@ -1,0 +1,17 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pycharm Temprory Files
+.idea/
+
+# Ignore virtual environments
+venv/
+.env
+.venv
+
+# Ignore system files (Windows, macOS, Linux)
+.DS_Store
+Thumbs.db
